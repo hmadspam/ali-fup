@@ -1,7 +1,3 @@
-Here is a comprehensive, professional `README.md` tailored for your Final Year Project. It is structured to satisfy both technical examiners (who look at the code) and business examiners (who look at the value).
-
----
-
 # 📦 AI-Powered Retail Demand Forecasting & Inventory Optimization
 
 **Final Year Project (FYP) - End-to-End Machine Learning Solution**
