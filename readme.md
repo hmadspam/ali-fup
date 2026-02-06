@@ -41,7 +41,7 @@ The system is divided into four distinct layers:
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/hmadspam/ali-fup
 cd ali-fyp
 
 # Create virtual environment
